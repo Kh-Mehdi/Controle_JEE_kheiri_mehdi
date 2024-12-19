@@ -6,3 +6,5 @@
 6.	Config-Service : Fournit une configuration centralisée pour tous les microservices.
 
 ceci est la V1 du projet , le projet est toujours en cours de devloppement 
+
+ecom-web-app : est la partie Angular du projet .
